@@ -1,2 +1,21 @@
-# gym
-A modern gym website designed with HTML and CSS, featuring sections for membership plans and training classes with a responsive layout.
+# FitLife Gym
+
+A responsive gym website built with HTML and CSS, showcasing membership plans and training classes.
+
+## 🚀 Live Demo
+https://your-netlify-link.netlify.app
+
+## 💻 GitHub Repository
+https://github.com/khaleedolawale/gym
+
+## 🛠️ Built With
+- HTML
+- CSS
+
+## 📸 Screenshot
+![Gym Website](screenshot.png)
+
+## 📌 Features
+- Responsive design
+- Membership section
+- Training classes section
