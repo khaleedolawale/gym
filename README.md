@@ -3,7 +3,7 @@
 A responsive gym website built with HTML and CSS, showcasing membership plans and training classes.
 
 ## 🚀 Live Demo
-https://your-netlify-link.netlify.app
+https://fitlifegym2.netlify.app/
 
 ## 💻 GitHub Repository
 https://github.com/khaleedolawale/gym
